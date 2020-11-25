@@ -1,0 +1,1 @@
+[Acvarium{vetuitoare=0, forma='null', pret=null, dimensiunea=null, volumul=null}, Acvarium{vetuitoare=30, forma='Oval', pret=200, dimensiunea=20, volumul=20}, Acvarium{vetuitoare=10, forma='Oval', pret=600, dimensiunea=40, volumul=20}, Acvarium{vetuitoare=30, forma='Oval', pret=800, dimensiunea=50, volumul=20}]
